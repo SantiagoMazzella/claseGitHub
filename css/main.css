@@ -87,6 +87,9 @@ header{
     display: inline-block;
     flex-direction: column;
 }
+.redesSociales a img{
+    width: 17%;
+}
 
 
 /*acá termina el Css del index y arranca el de "trabajos"*/
@@ -334,6 +337,7 @@ header{
     .menuLista{
         font-size: 0.75rem;
     }
+
 }
 
 
@@ -372,6 +376,14 @@ header{
         text-align:center;
         color: #17A589;
     }
+
+    .redesSociales{
+        margin-top: 33rem;
+    }
+
+    .redesSociales a img{
+        width: 60%;
+    }
     
     
     
@@ -400,6 +412,10 @@ header{
 
     .parrafoIndex{
         font-size: 1.2rem;
+    }
+
+    .redesSociales a img{
+        width: 70%;
     }
 }
 
